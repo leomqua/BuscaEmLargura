@@ -18,3 +18,6 @@ python graph.py
 Busca em Largura: ['A', 'B', 'C', 'D', 'E', 'F']
 Menor caminho de A até F: ['A', 'B', 'D', 'F']
 ```
+
+
+Nome: Leonardo Martins
